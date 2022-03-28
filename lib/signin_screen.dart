@@ -82,7 +82,7 @@ class SignInScreen extends StatelessWidget {
                     Expanded(
                       child: TextField(
                         decoration: InputDecoration(
-                          hintText: "Email Address",
+                          hintText: "Password",
                         ),
                       ),
                     ),
